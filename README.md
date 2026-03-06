@@ -30,8 +30,8 @@ class Arthur:
         self.nascimento = "29/10/2006"
         self.cidade     = "Franca, SP — Brasil 🇧🇷"
         self.curso      = "Ciência da Computação — UniFACEF"
-        self.foco       = ["Algoritmos", "Lógica de Programação", "Inteligência Artificial"]
-        self.praticando = "Exercícios no Beecrowd"
+        self.foco       = ["Algoritmos", "Lógica de Programação"]
+        self.praticando = ["Exercícios no Beecrowd", "Cursos Udemy"]
         self.objetivo   = "Evoluir constantemente como desenvolvedor"
 ```
 
