@@ -110,8 +110,7 @@ class Arthur:
 | 🧮 Lógica e Algoritmos | Estruturas de controle, recursão e resolução de problemas |
 | ☕ Java | Programação orientada a objetos e exercícios no Beecrowd |
 | 🟨 JavaScript | Fundamentos da linguagem e lógica de programação |
-| 🐍 Python | Sintaxe, estruturas de dados e IA |
-| 🤖 Inteligência Artificial | Agentes inteligentes e lógica proposicional |
+| 🐍 Python | Sintaxe, estruturas de dados |
 | 📚 Ciência da Computação | Fundamentos da graduação na UniFACEF |
 
 </div>
