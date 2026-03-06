@@ -61,6 +61,8 @@ class Arthur:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Portugol Studio](https://img.shields.io/badge/Portugol%20Studio-6A0DAD?style=for-the-badge&logo=codepen&logoColor=white)
 
 </div>
@@ -135,6 +137,7 @@ class Arthur:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Arthur%20Assis%20Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthur-assis-garcia-9861a6352)
+[![Gmail](https://img.shields.io/badge/-arthurassisgarcia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurassisgarcia@gmail.com)
 [![GitHub](https://img.shields.io/badge/-ArthurGarcia99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArthurGarcia99)
 [![Beecrowd](https://img.shields.io/badge/-Perfil%20Beecrowd-008000?style=for-the-badge&logo=codeforces&logoColor=white)](https://judge.beecrowd.com/pt/profile/1176429)
 
