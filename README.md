@@ -35,9 +35,7 @@ class Arthur:
         self.objetivo   = "Evoluir constantemente como desenvolvedor"
 ```
 
-- 📚 Estudante de **Ciência da Computação** no 1º ano da graduação
-- 🧠 Apaixonado por lógica, algoritmos e resolução de problemas
-- 🤖 Explorei inteligência artificial criando um agente tradutor de linguagem natural
+- 📚 Estudante de **Ciência da Computação** no 2º ano da graduação
 - 💪 Pratico programação competitiva na plataforma **Beecrowd**
 - 🚀 Em constante aprendizado de novas linguagens e tecnologias
 
